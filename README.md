@@ -33,4 +33,3 @@ While I will implement traditional A/B testing in order to appreciate its comple
     Bayesian ML plays a key role in Reinforcement Learning and I had to visit the concepts several times before it fully sinked in.
 
      It’s also powerful, and many machine learning experts often make statements about how they “subscribe to the Bayesian school of thought”.
-) 
