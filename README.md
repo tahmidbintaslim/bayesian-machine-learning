@@ -4,12 +4,6 @@
 
 While I will implement traditional A/B testing in order to appreciate its complexity, the main target is that I will eventually get to Bayesian machine learning way of doing things.
 
-### 1. [Traditional A-B Testing](# Bayesian Machine Learning
-
-**Traditional A/B testing has been around for a long time, and it’s full of approximations and confusing definitions.**
-
-While I will implement traditional A/B testing in order to appreciate its complexity, the main target is that I will eventually get to Bayesian machine learning way of doing things.
-
 ### 1. [Traditional A-B Testing](https://github.com/sourcecode369/bayesian-machine-learning/tree/master/Traditional%20AB%20Testing) 
 > First, we’ll see if we can improve on traditional A/B testing with adaptive methods. These will help to solve the explore-exploit dilemma.
 
