@@ -7,13 +7,13 @@ While I will implement traditional A/B testing in order to appreciate its comple
 ### 1. [Traditional A-B Testing](https://github.com/sourcecode369/bayesian-machine-learning/tree/master/Traditional%20AB%20Testing) 
 > First, we’ll see if we can improve on traditional A/B testing with adaptive methods. These will help to solve the explore-exploit dilemma.
 
-### 2. [Bayesian A-B Testing](https://www.github.com/sourcecode369)
+### 2. [Bayesian A-B Testing](https://github.com/sourcecode369/bayesian-machine-learning/tree/master/Bayesian%20AB%20Testing)
 > Will also implement the epsilon-greedy algorithm, which one can find in the context of reinforcement learning.
 
-### 3. [Epsilon Greedy Alogrithm & Upper Confidence Bound](https://www.github.com/sourcecode369)
+### 3. [Epsilon Greedy Alogrithm & Upper Confidence Bound](https://github.com/sourcecode369/bayesian-machine-learning/tree/master/Bayesian%20AB%20Testing)
 > We’ll improve upon the epsilon-greedy algorithm with a similar algorithm called UCB1.
 
-### 4. [Fully Bayesian Machine Learning](https://www.github.com/sourcecode369)
+### 4. [Fully Bayesian Machine Learning](https://github.com/sourcecode369/bayesian-machine-learning/tree/master/Bayesian%20AB%20Testing)
 > Finally, we’ll improve on both of those by using a fully Bayesian approach.
 
 ![Bayesian Machine Learning](http://blog.datumbox.com/wp-content/uploads/2013/09/bayesian_freshbiostats-770x484.png)
